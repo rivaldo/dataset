@@ -7,3 +7,5 @@
 | Classificação de Imagens<br>| 60| 5|
 
 ### Informações Adicionais
+
+As pastas contém quantidades diferentes de imagens, a classe carro é a que possui o menor número de imagens, 62 imagens. A classe Flores possui a maior quantidade de imagens, 299 imagens. No total são 765 imagens distribuídas pelas 5 classes escolhidas.
